@@ -2,6 +2,8 @@ Rencana Belajar Backend
 
 - php
 - javascript
+  * reactjs
 - database
 - framework
+  * Laravel
 - dll
