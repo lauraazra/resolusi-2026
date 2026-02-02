@@ -6,4 +6,6 @@ Rencana Belajar Backend
 - database
 - framework
   * Laravel
+  * django
+- python
 - dll
