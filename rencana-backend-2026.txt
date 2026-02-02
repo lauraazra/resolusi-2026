@@ -1,5 +1,7 @@
 Rencana Belajar Backend
 
+- php
+- javascript
 - database
 - framework
 - dll
