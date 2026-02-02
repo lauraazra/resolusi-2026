@@ -4,7 +4,6 @@ Rencana Belajar Backend
 - javascript
 - database
 - framework
-  * Laravel
   * django
 - python
 - dll
